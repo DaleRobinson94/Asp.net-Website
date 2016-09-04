@@ -1,0 +1,5 @@
+C:\Users\Dale Robinson\Documents\Website\Website\WebSite2\Database\bin\Debug\Database.dll
+C:\Users\Dale Robinson\Documents\Website\Website\WebSite2\Database\bin\Debug\Database.pdb
+C:\Users\Dale Robinson\Documents\Website\Website\WebSite2\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Dale Robinson\Documents\Website\Website\WebSite2\Database\obj\Debug\Database.dll
+C:\Users\Dale Robinson\Documents\Website\Website\WebSite2\Database\obj\Debug\Database.pdb
